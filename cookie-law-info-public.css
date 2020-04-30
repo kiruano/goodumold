@@ -1,0 +1,27 @@
+/* Code tidied up by ScrapBook */
+#cookie-law-info-bar { font-size: 12pt; margin: 0px auto; padding: 13px 10px; position: absolute; text-align: center; box-sizing: border-box; width: 100%; z-index: 9999; box-shadow: 0px 5px 50px rgba(0, 0, 0, 0.5); display: none; left: 0px; font-weight: 300; }
+#cookie-law-info-again { font-size: 10pt; margin: 0px; padding: 5px 10px; text-align: center; z-index: 9999; cursor: pointer; box-shadow: 2px 2px 5px 2px rgb(22, 22, 22); }
+#cookie-law-info-bar span { vertical-align: middle; }
+.cli-plugin-button, .cli-plugin-button:visited { display: inline-block; padding: 10px 16px; color: rgb(255, 255, 255); position: relative; cursor: pointer; margin-left: 0px; text-decoration: none; }
+.cli-plugin-main-link { margin-left: 0px; text-decoration: underline; }
+.cli-plugin-button:hover { background-color: rgb(17, 17, 17); color: rgb(255, 255, 255); text-decoration: none; }
+.small.cli-plugin-button, .small.cli-plugin-button:visited { font-size: 11px; }
+.cli-plugin-button, .cli-plugin-button:visited, .medium.cli-plugin-button, .medium.cli-plugin-button:visited { font-size: 14px; font-weight: 500; line-height: 1; }
+.large.cli-plugin-button, .large.cli-plugin-button:visited { font-size: 14px; padding: 8px 14px 9px; }
+.super.cli-plugin-button, .super.cli-plugin-button:visited { font-size: 34px; padding: 8px 14px 9px; }
+.pink.cli-plugin-button, .magenta.cli-plugin-button:visited { background-color: rgb(226, 32, 146); }
+.pink.cli-plugin-button:hover { background-color: rgb(200, 30, 130); }
+.green.cli-plugin-button, .green.cli-plugin-button:visited { background-color: rgb(145, 189, 9); }
+.green.cli-plugin-button:hover { background-color: rgb(116, 154, 2); }
+.red.cli-plugin-button, .red.cli-plugin-button:visited { background-color: rgb(230, 39, 39); }
+.red.cli-plugin-button:hover { background-color: rgb(207, 37, 37); }
+.orange.cli-plugin-button, .orange.cli-plugin-button:visited { background-color: rgb(255, 92, 0); }
+.orange.cli-plugin-button:hover { background-color: rgb(212, 85, 0); }
+.blue.cli-plugin-button, .blue.cli-plugin-button:visited { background-color: rgb(41, 129, 228); }
+.blue.cli-plugin-button:hover { background-color: rgb(37, 117, 207); }
+.yellow.cli-plugin-button, .yellow.cli-plugin-button:visited { background-color: rgb(255, 181, 21); }
+.yellow.cli-plugin-button:hover { background-color: rgb(252, 146, 0); }
+.cli-plugin-button { margin-top: 5px; }
+.cli-bar-popup { background-clip: padding-box; border-radius: 30px; padding: 20px; }
+.cli-powered_by_p { width: 100% !important; display: block !important; color: rgb(51, 51, 51); clear: both; font-style: italic !important; font-size: 12px !important; margin-top: 15px !important; }
+.cli-powered_by_a { color: rgb(51, 51, 51); font-weight: 600 !important; font-size: 12px !important; }

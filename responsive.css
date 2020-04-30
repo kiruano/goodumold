@@ -1,0 +1,97 @@
+/* Code tidied up by ScrapBook */
+@media only screen and (max-width: 1100px) {
+  .slide-image_parallax { background-attachment: scroll; }
+}
+@media only screen and (max-width: 990px) {
+  #trendingz, #home-sliderz, .top-socialz { display: none; }
+  .pipdig-grid-thumb-cutter { height: 260px; }
+  .cutter-full-width { height: 230px; }
+  .blossom_section .blossom_excerpt { display: none; }
+}
+@media only screen and (max-width: 769px) {
+  .site-top, .top-socialz, #wpadminbar, .wpadminbar-nudge, #blossom_search, .header_section_bottom_right { display: none; opacity: 0; height: 0px; }
+  .menu-bar ul li a { padding: 0px 19px; }
+  .site-title img { padding-top: 35px; padding-bottom: 10px; }
+  .slicknav_menu { display: block; }
+  .site-description { font-size: 13px; }
+  .menu-bar ul li { border-bottom: 0px none; }
+  .menu-bar ul ul li a { font-size: 12px; }
+  .site-title { font-size: 42px; line-height: 1.2; }
+  .site-header .container { padding-bottom: 30px; padding-top: 50px; }
+  .blossom_banner { margin-top: 30px; padding: 20px; }
+  .blossom_banner .widget > div { padding: 10px; }
+  .blossom_banner h3 { margin-bottom: 15px; }
+  .site-sidebar { margin: 30px 0px 0px; padding: 0px; }
+  .site-sidebar .widget { margin: 0px; padding: 20px 15px; }
+  .site-sidebar .widget:last-child { padding-bottom: 30px; }
+  table { width: 100%; overflow-y: hidden; overflow-x: scroll; border: 1px solid rgb(221, 221, 221); }
+  table > table { margin-bottom: 0px; }
+  table > table > thead > tr > th, table > table > tbody > tr > th, table > table > tfoot > tr > th, table > table > thead > tr > td, table > table > tbody > tr > td, table > table > tfoot > tr > td { white-space: nowrap; }
+  .woocommerce .related ul li.product, .woocommerce .related ul.products li.product, .woocommerce .upsells.products ul li.product, .woocommerce .upsells.products ul.products li.product, .woocommerce-page .related ul li.product, .woocommerce-page .related ul.products li.product, .woocommerce-page .upsells.products ul li.product, .woocommerce-page .upsells.products ul.products li.product { width: 46%; }
+  .cutter-full-width { height: 200px; }
+  .entry-footer { letter-spacing: 1px; }
+  .owl-height-wrapper { max-height: 150px; }
+  #pipdig-top-slider, #pipdig-related-posts, .hide-back-to-top, #instagramz, .carousel-footer-title, .owl-pagination, #wpadminbar { display: none; }
+  .floated_summary_post_date { left: auto; right: 0px; }
+  .floated_summary_post .entry-meta { margin-top: 10px; }
+  .pipdig_geo_tag { margin-top: 25px; width: auto; }
+  .lem_listing_content .entry-title { margin: 10px auto; }
+  .post-listing p { margin: 10px 0px; }
+  .grid_post_even, .grid_post_odd { padding-left: 0px; padding-right: 0px; }
+  .site-branding { width: 100%; }
+  #p3_double_carousel .p3_double_carousel_item { width: 100%; margin: 0px; }
+  .pipdig_blossom_post { margin-bottom: -30px; }
+  .next-prev-hider { margin-top: 30px; margin-bottom: 40px; }
+  #blossom_about_me, .pipdig_blossom_post { margin-bottom: 40px; }
+  .site-info { text-align: center; }
+}
+@media only screen and (max-width: 719px) {
+  .pipdig-mosaic-post.first_mosaic, .pipdig-mosaic-post { width: 90%; float: none; margin: 0px auto 25px; }
+  .holly_large_slider_panel { left: 50%; transform: translate(-50%, -50%); }
+  .holly_large_slider_excerpt { display: none; }
+  .floated_summary_left, .floated_summary_right { float: none; padding: 0px; width: 100%; }
+  .overlay-btn .overlay { opacity: 1; visibility: visible; }
+  .cycle-slideshow { height: 290px; }
+  #p3_full_width_slider_site_main .p3_slide_img { height: 300px; }
+  .slide-container { width: 80%; }
+  .slide-h2 { font-size: 18px; }
+  .site-main .container { padding-bottom: 0px; }
+  .site-footer, .site-credit { text-align: center; }
+  .addthis_toolbox .fa { margin: 0px 3px; }
+  #form-allowed-tags, ul.page-numbers { display: none; }
+  .next-prev-hider { display: block; }
+  .woocommerce div.product #tab-additional_information, #tab-reviews { display: block !important; }
+  .woocommerce div.product .tabs { display: none; }
+  .pipdig-grid-post { width: 100%; float: none; }
+  .pipdig-grid-post:nth-child(2n+1) { margin: 0px; }
+  .pipdig-grid-post:nth-child(2n) { margin: 0px; }
+  .grid-title { font-size: 20px; height: auto; line-height: 1.4; overflow: visible; text-overflow: clip; white-space: normal; }
+  .pipdig-grid-thumb-cutter { height: auto; width: auto; overflow: visible; display: inline; }
+  .lem_listing_content { padding: 0px; }
+  .pipdig_3_col_grid_item { margin-bottom: 50px; }
+  .pipdig_3_col_grid_info { padding: 0px; }
+  .pipdig_3_col_grid_breaker { margin-bottom: 0px; }
+  .blossom_section .blossom_excerpt { display: block; }
+  .site-branding { margin-top: 20px; }
+}
+@media only screen and (max-width: 400px) {
+  .woocommerce .product .product_title { font-size: 16px; }
+  .cycle-slideshow { height: 250px; margin-top: 10px; }
+  .slide-container { width: 90%; font-size: 0px; background: rgba(255, 255, 255, 0.9) none repeat scroll 0% 0%; box-shadow: none; }
+  .cycle-next, .cycle-prev, .pipdig-cats { display: none; }
+  .site-branding { margin-top: 25px; }
+  .blossom_section .entry-title { font-size: 35px; }
+  .blossom_section .blossom_border { border: 0px none; }
+}
+@media only screen and (max-width: 41.25em) {
+  #container { width: 100%; }
+  #imagelightbox-close { top: 1.25em; right: 1.25em; }
+  #imagelightbox-nav { bottom: 1.25em; }
+  .imagelightbox-arrow { width: 2.5em; height: 3.75em; margin-top: -2.75em; }
+  .imagelightbox-arrow-left { left: 1.25em; }
+  .imagelightbox-arrow-right { right: 1.25em; }
+}
+@media only screen and (max-width: 20em) {
+  .imagelightbox-arrow-left { left: 0px; }
+  .imagelightbox-arrow-right { right: 0px; }
+}
